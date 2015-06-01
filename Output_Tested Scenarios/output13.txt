@@ -1,0 +1,80 @@
+Visitor 1: Request to cross the house (left to right)
+Visitor 1: Cross house request granted(Current crossing: left to right, Number of visitors on house: 1)
+Visitor 2: Request to cross the house(right to left)
+Visitor 2: Waiting...
+Visitor 3: Request to cross the house (left to right)
+Visitor 1: Exit house (Current crossing: left to right, Number of visitors in the house: 0)
+Visitor 2: Cross house request granted(Current crossing: right to left, Number of visitors on house: 1)
+Visitor 4: Request to cross the house (left to right)
+Visitor 4: Waiting...
+Visitor 5: Request to cross the house (left to right)
+Visitor 5: Waiting...
+Visitor 6: Request to cross the house (left to right)
+Visitor 6: Waiting...
+Visitor 7: Request to cross the house(right to left)
+Visitor 2: Exit house (Current crossing: right to left, Number of visitors in the house: 0)
+Visitor 3: Cross house request granted(Current crossing: left to right, Number of visitors on house: 1)
+Visitor 4: Cross house request granted(Current crossing: left to right, Number of visitors on house: 2)
+Visitor 5: Cross house request granted(Current crossing: left to right, Number of visitors on house: 3)
+Visitor 6: Waiting...
+Visitor 8: Request to cross the house (left to right)
+Visitor 8: Waiting...
+Visitor 9: Request to cross the house(right to left)
+Visitor 9: Waiting...
+Visitor 10: Request to cross the house(right to left)
+Visitor 10: Waiting...
+Visitor 11: Request to cross the house(right to left)
+Visitor 11: Waiting...
+Visitor 3: Exit house (Current crossing: left to right, Number of visitors in the house: 2)
+Visitor 4: Exit house (Current crossing: left to right, Number of visitors in the house: 1)
+Visitor 6: Cross house request granted(Current crossing: left to right, Number of visitors on house: 2)
+Visitor 5: Exit house (Current crossing: left to right, Number of visitors in the house: 1)
+Visitor 12: Request to cross the house (left to right)
+Visitor 12: Waiting...
+Visitor 13: Request to cross the house (left to right)
+Visitor 13: Waiting...
+Visitor 14: Request to cross the house(right to left)
+Visitor 14: Waiting...
+Visitor 15: Request to cross the house (left to right)
+Visitor 15: Waiting...
+Visitor 6: Exit house (Current crossing: left to right, Number of visitors in the house: 0)
+Visitor 7: Cross house request granted(Current crossing: right to left, Number of visitors on house: 1)
+Visitor 16: Request to cross the house(right to left)
+Visitor 16: Waiting...
+Visitor 17: Request to cross the house(right to left)
+Visitor 17: Waiting...
+Visitor 7: Exit house (Current crossing: right to left, Number of visitors in the house: 0)
+Visitor 8: Cross house request granted(Current crossing: left to right, Number of visitors on house: 1)
+Visitor 18: Request to cross the house (left to right)
+Visitor 18: Waiting...
+Visitor 19: Request to cross the house (left to right)
+Visitor 19: Waiting...
+Visitor 20: Request to cross the house(right to left)
+Visitor 20: Waiting...
+Visitor 8: Exit house (Current crossing: left to right, Number of visitors in the house: 0)
+Visitor 9: Cross house request granted(Current crossing: right to left, Number of visitors on house: 1)
+Visitor 10: Cross house request granted(Current crossing: right to left, Number of visitors on house: 2)
+Visitor 11: Cross house request granted(Current crossing: right to left, Number of visitors on house: 3)
+Visitor 14: Waiting...
+Visitor 9: Exit house (Current crossing: right to left, Number of visitors in the house: 2)
+Visitor 10: Exit house (Current crossing: right to left, Number of visitors in the house: 1)
+Visitor 11: Exit house (Current crossing: right to left, Number of visitors in the house: 0)
+Visitor 12: Cross house request granted(Current crossing: left to right, Number of visitors on house: 1)
+Visitor 13: Cross house request granted(Current crossing: left to right, Number of visitors on house: 2)
+Visitor 12: Exit house (Current crossing: left to right, Number of visitors in the house: 1)
+Visitor 13: Exit house (Current crossing: left to right, Number of visitors in the house: 0)
+Visitor 14: Cross house request granted(Current crossing: right to left, Number of visitors on house: 1)
+Visitor 14: Exit house (Current crossing: right to left, Number of visitors in the house: 0)
+Visitor 15: Cross house request granted(Current crossing: left to right, Number of visitors on house: 1)
+Visitor 15: Exit house (Current crossing: left to right, Number of visitors in the house: 0)
+Visitor 16: Cross house request granted(Current crossing: right to left, Number of visitors on house: 1)
+Visitor 17: Cross house request granted(Current crossing: right to left, Number of visitors on house: 2)
+Visitor 16: Exit house (Current crossing: right to left, Number of visitors in the house: 1)
+Visitor 17: Exit house (Current crossing: right to left, Number of visitors in the house: 0)
+Visitor 18: Cross house request granted(Current crossing: left to right, Number of visitors on house: 1)
+Visitor 19: Cross house request granted(Current crossing: left to right, Number of visitors on house: 2)
+Visitor 18: Exit house (Current crossing: left to right, Number of visitors in the house: 1)
+Visitor 19: Exit house (Current crossing: left to right, Number of visitors in the house: 0)
+Visitor 20: Cross house request granted(Current crossing: right to left, Number of visitors on house: 1)
+Visitor 20: Exit house (Current crossing: right to left, Number of visitors in the house: 0)
+End of Main Program !
